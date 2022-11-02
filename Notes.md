@@ -8,6 +8,8 @@ Pages with a key notes of programming
 - NODE
 - REACT
 - MONGODB
+    MONGOOSE
 - DOCKER
+    DOCKER-COMPOSE
 - WEB3
 - ETHICAL HACKING
