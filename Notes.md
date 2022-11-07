@@ -6,7 +6,8 @@ Pages with a key notes of programming
         (https://flexboxsheet.com/)
         (https://grid.malven.co/)
 - HTML
-- JAVASCRIPT
+- <h3>JAVASCRIPT</h3>
+        (https://javascript.info/)
 - NODE
 - REACT
 - MONGODB
